@@ -1,4 +1,4 @@
-# Systrom Tron Internship Week-2 Task
+# System Tron Internship Week-2 Task
 # Car Price Prediction with Machine Learning
 
 Predict car prices using machine learning techniques. This project involves data cleaning, visualization, and the development of a Linear Regression model.
